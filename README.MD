@@ -3,7 +3,7 @@ WARNING ! USING THE CONTENTS OF THIS REPO IN YOUR MAIN SOLANA DEV ENV WILL COMPL
 ```
 
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
-    <img src="//hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FETBPolygonDev&count_bg=%23BF00D3&title_bg=%23000000&icon=googletagmanager.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false""/>
+    <img src="hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorektz%2FETBPolygonDev&count_bg=%23BF00D3&title_bg=%23000000&icon=googletagmanager.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false""/>
     <img src=https://img.shields.io/github/languages/code-size/morektz/SolanaBootCampChicagoJan2020Notez?style=plastic"></a>
 </p>
 
